@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':jxl', ':barcodescanner'
 rootProject.name='Barcode2'
